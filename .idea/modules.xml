@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/satfin.iml" filepath="$PROJECT_DIR$/.idea/satfin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../satnum/.idea/satnum.iml" filepath="$PROJECT_DIR$/../satnum/.idea/satnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scriptck/.idea/scriptck.iml" filepath="$PROJECT_DIR$/../scriptck/.idea/scriptck.iml" />
+    </modules>
+  </component>
+</project>
